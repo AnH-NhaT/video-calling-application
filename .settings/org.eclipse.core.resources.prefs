@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/Client/ClientGUI.java=UTF-8
+encoding//src/Client/Data.java=UTF-8
+encoding//src/Client/DiaglogCall.java=UTF-8
+encoding//src/Client/DiaglogRecive.java=UTF-8
+encoding//src/Client/Login.java=UTF-8
+encoding//src/Client/PlaySound.java=UTF-8
+encoding//src/Client/SignUp.java=UTF-8
+encoding//src/Client/VideoChatFrame.java=UTF-8
+encoding//src/Client/WaitRoom.java=UTF-8
+encoding//src/Server/Server.java=UTF-8
